@@ -6,7 +6,7 @@ An independent product management case study exploring how ride-hailing apps cou
 
 The core idea: a rider's goal was never *"complete this specific booking,"* it was *"reach my destination."* This project reframes trip failure from a dead end into a recoverable state.
 
-🔗 **[Live prototype](https://trip-recovery-intell-xak0.bolt.host)**  
+🔗 **[Live prototype](https://triprecoveryintelligence.lovable.app)**  
 
 📄 **[Full PRD](https://app.notion.com/p/Uber-Trip-Recovery-Intelligence-3bae7f155a8e80a08be6de300fd0a0a7?source=copy_link)** 
 
